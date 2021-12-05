@@ -3,3 +3,7 @@
 #versão 3
 mutate ()
 rename()
+#novas linhas
+#parte 2
+join()
+select()
